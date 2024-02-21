@@ -33,7 +33,7 @@
          <tr>
         <td rowspan=4 align="center">3%</td>
         <td rowspan=4 align="center">101 - 499</td>
-        <td rowspan=4 align="center">Нижняя - 101 <br> Верхняя - 500</td>
+        <td rowspan=4 align="center">Нижняя - 101 <br> Верхняя - 499</td>
         <td rowspan=4 align="center"> 102, ,498, 499, 500 </td>
         <td rowspan=4 align="center">В этой проверке не беру значения нижней границы 100 и 101, чтобы избежать дублирования</td>
       </tr>
