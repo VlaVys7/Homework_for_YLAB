@@ -53,7 +53,7 @@
         <td rowspan=4 align="center">2001 - +∞</td>
         <td rowspan=4 align="center">Нижняя - 2001 <br> Верхняя - +∞</td>
         <td rowspan=4 align="center"> 2000, 2001, 2002</td>
-        <td rowspan=4 align="center"> По аналогии, тут будет достаточно проверить значение на 1 выше, чтобы избежать дублирование тестов.</td>
+        <td rowspan=4 align="center"> </td>
       </tr>
        </tbody>
 </table>
