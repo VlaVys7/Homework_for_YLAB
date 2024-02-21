@@ -34,16 +34,16 @@
         <td rowspan=4 align="center">3%</td>
         <td rowspan=4 align="center">101 - 499</td>
         <td rowspan=4 align="center">Нижняя - 101 <br> Верхняя - 499</td>
-        <td rowspan=4 align="center"> 102, ,498, 499, 500 </td>
-        <td rowspan=4 align="center">В этой проверке не беру значения нижней границы 100 и 101, чтобы избежать дублирования</td>
+        <td rowspan=4 align="center"> 100, 101, 102, ,498, 499, 500 </td>
+        <td rowspan=4 align="center"></td>
       </tr>
       </tbody>
      <tbody>
        <tr>
         <td rowspan=4 align="center">5%</td>
         <td rowspan=4 align="center"> 500 - 2000</td>
-        <td rowspan=4 align="center">Нижняя - 101 <br> Верхняя - 500</td>
-        <td rowspan=4 align="center"> 501, 1999, 2000, 2001</td>
+        <td rowspan=4 align="center">Нижняя - 500 <br> Верхняя - 2000</td>
+        <td rowspan=4 align="center"> 499, 500, 501, 1999, 2000, 2001</td>
         <td rowspan=4 align="center"></td>
       </tr>
      </tbody>
@@ -52,7 +52,7 @@
         <td rowspan=4 align="center">10%</td>
         <td rowspan=4 align="center">2001 - +∞</td>
         <td rowspan=4 align="center">Нижняя - 2001 <br> Верхняя - +∞</td>
-        <td rowspan=4 align="center"> 2002</td>
+        <td rowspan=4 align="center"> 2000, 2001, 2002</td>
         <td rowspan=4 align="center"> По аналогии, тут будет достаточно проверить значение на 1 выше, чтобы избежать дублирование тестов.</td>
       </tr>
        </tbody>
