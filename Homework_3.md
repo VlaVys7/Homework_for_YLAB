@@ -63,7 +63,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan=4 align="center">С версии протокола http/1.1 Host является обязательным. </td>
+      <td rowspan=4 align="center">Ответ не должен содержать заголовок Host. Это требованиее обязательно только для HTTP запроса с версии http/1.1</td>
     </tr>
   </tbody>
 </table>
